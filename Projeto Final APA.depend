@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1583719238 source:e:\arquivos\documentos\programação\projeto final apa\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<string.h>
+	<fstream>
+	<math.h>
+	<sstream>
+
